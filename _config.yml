@@ -1,0 +1,23 @@
+# _config.yml
+title: "洪紫涵的个人博客"           
+description: "看摇摇晃晃的人间，记无法复刻的瞬间"  
+baseurl: ""                     
+url: "https://zihanhong6.github.io"  
+
+# 作者信息
+author:
+  name: "洪紫涵"
+  email: "3245222469@qq.com"
+  github: "zihanhong6"
+
+# 主题设置
+theme: jekyll-theme-minimal      # 使用简约主题
+
+# 构建设置
+markdown: kramdown
+permalink: pretty
+
+# 插件
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
